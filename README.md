@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @sachiikrish !
+# 👋 Hi, I'm Kanishka !
 
 Welcome to my GitHub profile! 🚀 I'm passionate about building web applications and diving into the world of Machine Learning. 🌱
 
